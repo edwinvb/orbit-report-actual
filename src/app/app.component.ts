@@ -10,7 +10,7 @@ let displayList: Satellite[];
 	styleUrls: [ './app.component.css' ]
 })
 export class AppComponent {
-	title = 'orbit-report';
+	title = 'orbit-report-actual';
 	sourceList: Satellite[];
 	displayList: Satellite[];
 	constructor() {
