@@ -8,7 +8,7 @@
 }
 
 table {
-	color: #111;
+	color: rgb(110, 69, 69);
 	border-radius: 5px;
 	overflow: hidden;
 	margin: 12px 0;
@@ -17,7 +17,7 @@ table {
 }
 
 .header-row {
-	background: #34495e;
+	background: #1b60a5;
 	color: #fff;
 }
 
